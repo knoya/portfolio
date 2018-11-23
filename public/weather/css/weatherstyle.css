@@ -1,0 +1,81 @@
+html, body, .map {
+	height: 100%;
+    width: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;   
+    margin: 0;
+    font-size: 100%;
+}
+
+.stylish {
+	padding-top: 10%;
+	height: 100%;
+	position: relative;
+}
+
+.degC {
+	display: none;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.degF {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.weathericon {
+	font-size: 3.5rem;
+}
+
+.csbutton {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	display: none;
+}
+
+.csinput {
+	border: none;
+	text-decoration: underline;
+	background-color: transparent;
+}
+
+.csbox {
+	display: inline-block;
+	height: 30px;
+}
+
+
+
+@media only screen and (max-width: 550px) {
+	.apptitle {
+		padding-top: 23%;
+		font-size: 5rem;
+	}
+
+	.weather {
+		padding-top: 5%;
+	}
+
+	.weathericon {
+		font-size: 5rem;
+		padding-top: 4%;
+	}
+
+	.degC {
+		font-size: 2rem;
+	}
+
+	.degF {
+		font-size: 2rem;
+	}
+
+	.csinput {
+		font-size: 2rem;
+	}
+
+	.csbutton {
+		font-size: 2rem;
+	}
+}

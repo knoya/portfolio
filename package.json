@@ -1,0 +1,35 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "portfolio website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kristian Noya",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.4.0",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.17.1",
+    "express": "^4.14.0",
+    "fetch": "^1.1.0",
+    "jquery": "^3.1.1",
+    "jsonwebtoken": "^7.4.3",
+    "mongoose": "^4.8.3",
+    "morgan": "^1.8.1",
+    "normalize.css": "^5.0.0",
+    "path": "^0.12.7",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-fontawesome": "^1.6.1",
+    "react-textarea-autosize": "^4.0.5",
+    "send": "^0.14.1",
+    "sendgrid": "^4.10.0",
+    "sendgrid-rest": "^2.3.0",
+    "socket.io": "^1.7.3",
+    "socket.io-client": "^1.7.3",
+    "webpack": "^1.14.0"
+  }
+}

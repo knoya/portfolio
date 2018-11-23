@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+	<head> 
+		<meta charset="UTF-8"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/weatherstyle.css">
+		<link rel="stylesheet" href="css/weather-icons.min.css">
+		<link rel="stylesheet" href="css/weather-icons-wind.min.css">
+		<link rel='stylesheet prefetch' href='css/bootstrap.css'>
+	</head>
+	<body>
+		<div class="map"></div>
+		<div class="container-fluid stylish">
+			<div class="row">
+				<div class="col-lg-4 col-lg-offset-4 text-center boxstyle">
+					<h1 class="apptitle">Weather App.</h1><br><br>
+					<div class = "csbox">
+						<input type="text" id="csinput" class="csinput">
+						<button class="csbutton glyphicon glyphicon-search"></button>
+					</div>
+					<h3 class="weather"></h3>
+					<i class="weathericon"></i><br><br>
+					<span class="degC"></span>
+					<span class="degF"></span>
+				</div>
+			</div>
+		</div>
+		<script src="js/jquery.min.js"></script>
+		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFsdKwPMX4hKp5r77eWGjyEhEgTUp8SEM&callback=initMap" type="text/javascript"></script>
+		<script src="js/weatherapp.js"></script>
+	</body>
+</html>

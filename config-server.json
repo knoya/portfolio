@@ -1,0 +1,7 @@
+{
+  "dbUri1": "mongodb://127.0.0.1/comments",
+  "dbUri2": "mongodb://127.0.0.1/users",
+  "jwtSecret": "1234asdfQWER",
+  "port": 3000,
+  "indexUri": "/build/index.html"
+}

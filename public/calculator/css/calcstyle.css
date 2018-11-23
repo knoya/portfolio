@@ -1,0 +1,127 @@
+html {
+	height: 100%;
+	background: white;
+	background: radial-gradient(circle at 50% 40%, #fff 20%, #ccc);
+	
+}
+
+body {
+	height: 100%;
+	background: none;
+}
+
+.calculator {
+	width: 342px;
+	height:auto;
+	background: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+}
+.clearbtn {
+	float: left;
+	height: 50px;
+	width: 65px;
+	text-align: center;
+	padding-top: 15px;
+	border: 1px solid black;
+	background: #cc0000;
+	color: white;
+
+	cursor: pointer;
+}
+
+.clearbtn:hover {
+	border-top: 3px solid #990000;
+	border-right: 3px solid #990000;
+}
+
+.screen {
+	height: 50px;
+	width: auto;
+	border: 1px solid black;
+	text-align: right;
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.keys {
+	overflow: hidden;
+}
+
+.keys span {
+	float: left;
+	width: 65px;
+	height: 50px;
+	background: none;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	text-align: center;
+	margin: 10px;
+
+	cursor: pointer;
+}
+
+.keys span:hover {
+	background: none;
+	border-top: 1px solid #f2f2f2;
+	border-right: 1px solid #f2f2f2;
+	border-left: 1px solid #f2f2f2;
+	border-bottom: 1px solid #f2f2f2;
+}
+
+
+@media only screen and (max-width: 550px) {
+	.calculator {
+		width: 100%;
+		height:auto;
+		background: none;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 10%;
+	}
+
+	.clearbtn {
+		float: left;
+		height: 10vh;
+		width: 21%;
+		text-align: center;
+		padding-top: 0%;
+		border: 1px solid black;
+		background: #cc0000;
+		color: white;
+
+		cursor: pointer;
+	}
+
+	.screen {
+		height: 10vh;
+		min-height: 10vh;
+		width: auto;
+		border: 1px solid black;
+		text-align: right;
+		padding-top: 0%;
+		padding-right: 3%;
+		padding-left: 3%;
+	}
+
+	.keys {
+		height: 100%;
+	}
+
+	.keys span {
+		float: left;
+		width: 21%;
+		height: 10vh;
+		background: none;
+		border-left: 1px solid black;
+		border-bottom: 1px solid black;
+		text-align: center;
+		margin: 2%;
+
+		cursor: pointer;
+	}
+
+}
+

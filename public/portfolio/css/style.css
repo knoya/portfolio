@@ -1,0 +1,146 @@
+html, body {height: 100%;}
+
+#introsection {
+	overflow: hidden;
+}
+
+.jumbotron {
+	position: relative;
+}
+
+#about {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.aboutsection {
+  	position: absolute;
+  	top: 30%;
+}
+
+.aboutimage {
+	width: 100%;
+}
+
+.splashscreen {
+	background:url("../office-background.jpg")no-repeat center center;
+	height: 100vh;
+	background-size:cover;
+}
+
+.introblurb {
+	padding-top: 16em;
+}
+
+.introblurb h1 {
+	color: white;
+}
+
+#portfolio {
+	height: calc(100vh);
+}
+
+.portfoliosection {
+	padding-top: 30vh;
+}
+
+.contactsection {
+	background-color: #262626;
+	color: white;
+	padding-top: 80px;
+	padding-bottom: 250px;
+	height: 100vh;
+}
+
+.introp {
+}
+
+.contactinfo {
+	padding-top: 30px;
+	font-size: 200%;
+}
+
+.portfoliobox {
+	border: 1px black solid;
+	height: 100px;
+	width: 100px;
+	margin: auto;
+}
+
+#message { 
+	resize: none;
+}
+
+.graynav {
+	background: #eee !important;
+	-webkit-transition: background 1s;
+  	transition: background 1s;
+  	border-color: transparent !important;
+}
+
+.graynav.greennav {
+	background: #00cc44 !important;
+}
+.graynav.greennav a{
+	color: white !important;
+}
+
+.graynav.greennav .navbar-toggle {
+	border-color: white !important;
+} 
+
+.graynav.greennav .icon-bar {
+	background-color: white !important;
+} 
+
+.graynav.rednav {
+	background: #e60073 !important;
+}
+.graynav.rednav a{
+	color: white !important;
+}
+
+.graynav.rednav .icon-bar {
+	background-color: white !important;
+} 
+
+.graynav.rednav .navbar-toggle {
+	border-color: white !important;
+} 
+
+.graynav.yellownav {
+	background: #80bfff !important;
+}
+.graynav.yellownav a{
+	color: white !important;
+}
+
+.graynav.yellownav .navbar-toggle {
+	border-color: white !important;
+} 
+
+.graynav.yellownav .icon-bar {
+	background-color: white !important;
+} 
+
+.navbar-toggle:hover {
+	background-color: transparent !important;
+}
+
+@media only screen and (max-width : 768px) {
+	.aboutimage {
+		position: relative;
+		width: 50%;
+		left: 25%;
+	}
+
+	.aboutsection {
+		position: relative;
+		top: 15%;
+	}
+
+	.contactsection {
+		height: 110vh;
+	}
+}
+

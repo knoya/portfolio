@@ -1,0 +1,67 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Tic Tac Toe</title>
+		<link rel="stylesheet" href="css/tictactoe.css" media="screen" charset="utf-8">
+		<link rel="stylesheet" href="css/font-awesome.min.css" media="screen" charset="utf-8">
+	</head>
+	<body>
+		<div class="container">
+			<div class="messagepanel">
+				<div class="player1turn">
+				</div>
+				<div class="winner">
+				</div>
+				<div class="player2turn">
+				</div>
+			</div>
+			<div class="infopanel">
+				<div class="player1score"></div>
+				<i></i>
+				<div class="player2score"></div>
+				<div class="resetbutton">
+					<button class="reset">Reset All</button>
+				</div>
+			</div>
+			<div class="boardcontainer">
+				<div class="gameinprogress">
+					<div class="row">
+						<div class="square sq1 bottom right"></div>
+						<div class="square sq2 bottom right"></div>
+						<div class="square sq3 bottom"></div>
+					</div>
+					<div class="row">
+						<div class="square sq4 bottom right"></div>
+						<div class="square sq5 bottom right"></div>
+						<div class="square sq6 bottom"></div>
+					</div>
+					<div class="row">
+						<div class="square sq7 right"></div>
+						<div class="square sq8 right"></div>
+						<div class="square sq9"></div>
+					</div>
+				</div>
+				<div class="gameselectscreen">
+					<p>How do you want to play?</p>
+					<button class="oneplayer">One Player</button>
+					<button class="twoplayer">Two Player</button>
+				</div>
+				<div class="playerselectscreen">
+					<p>Would you like to be X or O?</p>
+					<button class="playerselectx">X</button>
+					<button class="playerselecto">O</button>
+					<button class="back1">Back</button>
+				</div>
+				<div class="player1selectscreen">
+					<p>Player 1, would you like to be X or O?</p>
+					<button class="player1selectx">X</button>
+					<button class="player1selecto">O</button>
+					<button class="back2">Back</button>
+				</div>
+			</div>
+		</div>
+		<script src="js/jquery.js" charset="utf-8"></script>
+		<script src="js/tictactoe.js" charset="utf-8"></script>
+	</body>
+</html>

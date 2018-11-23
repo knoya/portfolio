@@ -1,0 +1,639 @@
+[
+  {
+    "word": "ain't",
+    "stems": [
+      "am",
+      "not"
+    ]
+  },
+  {
+    "word": "aren't",
+    "stems": [
+      "are",
+      "not"
+    ]
+  },
+  {
+    "word": "can't",
+    "stems": [
+      "can",
+      "not"
+    ]
+  },
+  {
+    "word": "could've",
+    "stems": [
+      "could",
+      "have"
+    ]
+  },
+  {
+    "word": "couldn't",
+    "stems": [
+      "could",
+      "not"
+    ]
+  },
+  {
+    "word": "didn't",
+    "stems": [
+      "did",
+      "not"
+    ]
+  },
+  {
+    "word": "doesn't",
+    "stems": [
+      "does",
+      "not"
+    ]
+  },
+  {
+    "word": "don't",
+    "stems": [
+      "do",
+      "not"
+    ]
+  },
+  {
+    "word": "hadn't",
+    "stems": [
+      "had",
+      "not"
+    ]
+  },
+  {
+    "word": "hasn't",
+    "stems": [
+      "has",
+      "not"
+    ]
+  },
+  {
+    "word": "haven't",
+    "stems": [
+      "have",
+      "not"
+    ]
+  },
+  {
+    "word": "he'd",
+    "stems": [
+      "he",
+      "had"
+    ]
+  },
+  {
+    "word": "he'll",
+    "stems": [
+      "he",
+      "will"
+    ]
+  },
+  {
+    "word": "he's",
+    "stems": [
+      "he",
+      "is"
+    ]
+  },
+  {
+    "word": "how'd",
+    "stems": [
+      "how",
+      "did"
+    ]
+  },
+  {
+    "word": "how'll",
+    "stems": [
+      "how",
+      "will"
+    ]
+  },
+  {
+    "word": "how's",
+    "stems": [
+      "how",
+      "is"
+    ]
+  },
+  {
+    "word": "i'd",
+    "stems": [
+      "i",
+      "would"
+    ]
+  },
+  {
+    "word": "i'll",
+    "stems": [
+      "i",
+      "will"
+    ]
+  },
+  {
+    "word": "i'm",
+    "stems": [
+      "i",
+      "am"
+    ]
+  },
+  {
+    "word": "i've",
+    "stems": [
+      "i",
+      "have"
+    ]
+  },
+  {
+    "word": "isn't",
+    "stems": [
+      "is",
+      "not"
+    ]
+  },
+  {
+    "word": "it'd",
+    "stems": [
+      "it",
+      "would"
+    ]
+  },
+  {
+    "word": "it'll",
+    "stems": [
+      "it",
+      "will"
+    ]
+  },
+  {
+    "word": "it's",
+    "stems": [
+      "it",
+      "is"
+    ]
+  },
+  {
+    "word": "mayn't",
+    "stems": [
+      "may",
+      "not"
+    ]
+  },
+  {
+    "word": "may've",
+    "stems": [
+      "may",
+      "have"
+    ]
+  },
+  {
+    "word": "mightn't",
+    "stems": [
+      "might",
+      "not"
+    ]
+  },
+  {
+    "word": "might've",
+    "stems": [
+      "might",
+      "have"
+    ]
+  },
+  {
+    "word": "musn't",
+    "stems": [
+      "must",
+      "not"
+    ]
+  },
+  {
+    "word": "must've",
+    "stems": [
+      "must",
+      "have"
+    ]
+  },
+  {
+    "word": "needn't",
+    "stems": [
+      "need",
+      "not"
+    ]
+  },
+  {
+    "word": "oughtn't",
+    "stems": [
+      "ought",
+      "not"
+    ]
+  },
+  {
+    "word": "shan't",
+    "stems": [
+      "shall",
+      "not"
+    ]
+  },
+  {
+    "word": "she'd",
+    "stems": [
+      "she",
+      "had"
+    ]
+  },
+  {
+    "word": "she'll",
+    "stems": [
+      "she",
+      "will"
+    ]
+  },
+  {
+    "word": "she's",
+    "stems": [
+      "she",
+      "is"
+    ]
+  },
+  {
+    "word": "should've",
+    "stems": [
+      "should",
+      "have"
+    ]
+  },
+  {
+    "word": "shouldn't",
+    "stems": [
+      "should",
+      "not"
+    ]
+  },
+  {
+    "word": "somebody's",
+    "stems": [
+      "somebody",
+      "is"
+    ]
+  },
+  {
+    "word": "someone's",
+    "stems": [
+      "someone",
+      "is"
+    ]
+  },
+  {
+    "word": "something's",
+    "stems": [
+      "something",
+      "is"
+    ]
+  },
+  {
+    "word": "that'll",
+    "stems": [
+      "that",
+      "will"
+    ]
+  },
+  {
+    "word": "that're",
+    "stems": [
+      "that",
+      "are"
+    ]
+  },
+  {
+    "word": "that's",
+    "stems": [
+      "that",
+      "is"
+    ]
+  },
+  {
+    "word": "that'd",
+    "stems": [
+      "that",
+      "would"
+    ]
+  },
+  {
+    "word": "there'd",
+    "stems": [
+      "there",
+      "would"
+    ]
+  },
+  {
+    "word": "there're",
+    "stems": [
+      "there",
+      "are"
+    ]
+  },
+  {
+    "word": "there's",
+    "stems": [
+      "there",
+      "is"
+    ]
+  },
+  {
+    "word": "these're",
+    "stems": [
+      "these",
+      "are"
+    ]
+  },
+  {
+    "word": "they'd",
+    "stems": [
+      "they",
+      "had"
+    ]
+  },
+  {
+    "word": "they'll",
+    "stems": [
+      "they",
+      "will"
+    ]
+  },
+  {
+    "word": "they're",
+    "stems": [
+      "they",
+      "are"
+    ]
+  },
+  {
+    "word": "they've",
+    "stems": [
+      "they",
+      "have"
+    ]
+  },
+  {
+    "word": "this's",
+    "stems": [
+      "this",
+      "is"
+    ]
+  },
+  {
+    "word": "those're",
+    "stems": [
+      "those",
+      "are"
+    ]
+  },
+  {
+    "word": "'tis",
+    "stems": [
+      "it",
+      "is"
+    ]
+  },
+  {
+    "word": "'twas",
+    "stems": [
+      "it",
+      "was"
+    ]
+  },
+  {
+    "word": "wasn't",
+    "stems": [
+      "was",
+      "not"
+    ]
+  },
+  {
+    "word": "we'd",
+    "stems": [
+      "we",
+      "had"
+    ]
+  },
+  {
+    "word": "we'll",
+    "stems": [
+      "we",
+      "will"
+    ]
+  },
+  {
+    "word": "we're",
+    "stems": [
+      "we",
+      "are"
+    ]
+  },
+  {
+    "word": "we've",
+    "stems": [
+      "we",
+      "have"
+    ]
+  },
+  {
+    "word": "weren't",
+    "stems": [
+      "were",
+      "not"
+    ]
+  },
+  {
+    "word": "what'd",
+    "stems": [
+      "what",
+      "would"
+    ]
+  },
+  {
+    "word": "what'll",
+    "stems": [
+      "what",
+      "will"
+    ]
+  },
+  {
+    "word": "what're",
+    "stems": [
+      "what",
+      "are"
+    ]
+  },
+  {
+    "word": "what's",
+    "stems": [
+      "what",
+      "is"
+    ]
+  },
+  {
+    "word": "what've",
+    "stems": [
+      "what",
+      "have"
+    ]
+  },
+  {
+    "word": "when's",
+    "stems": [
+      "when",
+      "is"
+    ]
+  },
+  {
+    "word": "where'd",
+    "stems": [
+      "where",
+      "did"
+    ]
+  },
+  {
+    "word": "where're",
+    "stems": [
+      "where",
+      "are"
+    ]
+  },
+  {
+    "word": "where's",
+    "stems": [
+      "where",
+      "is"
+    ]
+  },
+  {
+    "word": "where've",
+    "stems": [
+      "where",
+      "have"
+    ]
+  },
+  {
+    "word": "which's",
+    "stems": [
+      "which",
+      "is"
+    ]
+  },
+  {
+    "word": "who'd",
+    "stems": [
+      "who",
+      "did"
+    ]
+  },
+  {
+    "word": "who'll",
+    "stems": [
+      "who",
+      "will"
+    ]
+  },
+  {
+    "word": "who're",
+    "stems": [
+      "who",
+      "are"
+    ]
+  },
+  {
+    "word": "who's",
+    "stems": [
+      "whi",
+      "is"
+    ]
+  },
+  {
+    "word": "who've",
+    "stems": [
+      "who",
+      "have"
+    ]
+  },
+  {
+    "word": "why'd",
+    "stems": [
+      "why",
+      "did"
+    ]
+  },
+  {
+    "word": "why're",
+    "stems": [
+      "why",
+      "are"
+    ]
+  },
+  {
+    "word": "why's",
+    "stems": [
+      "why",
+      "is"
+    ]
+  },
+  {
+    "word": "won't",
+    "stems": [
+      "will",
+      "not"
+    ]
+  },
+  {
+    "word": "would've",
+    "stems": [
+      "would",
+      "have"
+    ]
+  },
+  {
+    "word": "wouldn't",
+    "stems": [
+      "would",
+      "not"
+    ]
+  },
+  {
+    "word": "y'all",
+    "stems": [
+      "you",
+      "all"
+    ]
+  },
+  {
+    "word": "you'd",
+    "stems": [
+      "you",
+      "would"
+    ]
+  },
+  {
+    "word": "you'll",
+    "stems": [
+      "you",
+      "will"
+    ]
+  },
+  {
+    "word": "you're",
+    "stems": [
+      "you",
+      "are"
+    ]
+  },
+  {
+    "word": "you've",
+    "stems": [
+      "you",
+      "have"
+    ]
+  }
+]
